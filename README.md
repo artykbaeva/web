@@ -1,2 +1,2 @@
-# spr_web
-web programming project
+# Traveling website
+
